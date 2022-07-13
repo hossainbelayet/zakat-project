@@ -2,9 +2,18 @@
     background-image: url( "/Users/hossainmdbelayet/Desktop/jakat project/head pic/69b018ecafd5f81c0f4b262ae5a06d90.jpg");
     height: 400px;
     border: none;
-    display: flex
+    display: flex;
+
   
 
+}
+.first-part input{
+    background-color: rgb(87, 206, 104);
+    height: 35px;
+    width: 150px;
+    font-size: 24px;
+    border-radius: 6px;
+    
 }
 
 .first-tests{
@@ -12,6 +21,7 @@
     position: absolute;
     padding-top: 100px;
    padding: 30px;
+   margin-left: 250px;
 }
 span{
     color: crimson;
@@ -19,6 +29,7 @@ span{
 .first-tests h1{
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 38px;
+    text-align: center;
 }
 h4{
     text-align: center;
@@ -124,7 +135,7 @@ background-color: blueviolet;
 }
 footer{
     text-align: center;
-    background-color: rgb(143, 159, 33);
+    background-color: rgb(135, 168, 59);
     
     height: 80px;
     padding: 12px;
